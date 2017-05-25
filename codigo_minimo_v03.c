@@ -1,4 +1,4 @@
-#include <codigo_minimo_v03.h>
+#include <codigo_minimo_v01.h>
 
 #define PERIODO 255
 
